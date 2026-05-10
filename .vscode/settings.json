@@ -1,5 +1,6 @@
 {
   "python.defaultInterpreterPath": "C:\\\\Users\\\\roysa\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python310\\\\python.exe",
+  "json.schemaDownload.enable": true,
   "cSpell.words": [
     "asgiref",
     "dj",
