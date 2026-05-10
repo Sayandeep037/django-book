@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "C:\\\\Users\\\\roysa\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python310\\\\python.exe",
+  "cSpell.words": [
+    "asgiref",
+    "dj",
+    "gunicorn",
+    "psycopg2",
+    "sqlparse",
+    "tzdata"
+  ]
+}
